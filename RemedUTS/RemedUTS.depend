@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643805370 source:d:\tugas\struktur data\remeduts\main.cpp
+	<iostream>
+	"SLL.h"
+
+1643804997 d:\tugas\struktur data\remeduts\sll.h
+	<iostream>
+
+1643805036 source:d:\tugas\struktur data\remeduts\sll.cpp
+	"SLL.h"
+	<iostream>
+
